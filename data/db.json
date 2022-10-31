@@ -60,6 +60,19 @@
       "method": "blah blah",
       "cookingTime": "35 minutes",
       "id": "PLVSo2s"
+    },
+    {
+      "title": "Stir Fry",
+      "ingredients": [
+        "chicken",
+        "zuchinni",
+        "carrots",
+        "rice",
+        "teriyaki"
+      ],
+      "method": "Wok it!",
+      "cookingTime": "45 minutes",
+      "id": "VVj2h4c"
     }
   ]
 }
